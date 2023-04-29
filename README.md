@@ -22,8 +22,8 @@ The challenge is to build out a QR code component and get it looking as close to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ricochet69/QR-CODE-COMPONENT)
-- Live Site URL: [Add live site URL here](https://ricochet69.github.io/QR-CODE-COMPONENT)
+- Solution URL: [https://github.com/ricochet69/QR-CODE-COMPONENT](https://github.com/ricochet69/QR-CODE-COMPONENT)
+- Live Site URL: [https://ricochet69.github.io/QR-CODE-COMPONENT](https://ricochet69.github.io/QR-CODE-COMPONENT)
 
 ## My process
 The QR component was build using a mobile-first workflow. The stylesheet was reset and the font size was set to 62.5% to enable greater accuracy when assigning relative values to properties such as font, margin, padding etc. Flexbox was used on the main container to evenly align the component to the center of the screen.
