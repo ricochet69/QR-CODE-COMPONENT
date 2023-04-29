@@ -26,7 +26,7 @@ The challenge is to build out a QR code component and get it looking as close to
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-The QR component was build using a mobile-first workflow. The stylesheet was reset and the font size was set to 62.5% to enable greater accuracy when assigning relative values to properties such as font, margin, padding etc.Flexbox was used on the main container to evenly align the component to the center of the screen.
+The QR component was build using a mobile-first workflow. The stylesheet was reset and the font size was set to 62.5% to enable greater accuracy when assigning relative values to properties such as font, margin, padding etc. Flexbox was used on the main container to evenly align the component to the center of the screen.
 Design specifications where then applied to the relevant elemants to produce the final result.
 
 ### Built with
